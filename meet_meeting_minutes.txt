@@ -1,0 +1,28 @@
+**Title:** ACME Corporation New Website Development Meeting
+
+**Agenda:**
+
+1. Finalize website scope and requirements.
+2. Assign key tasks and responsibilities.
+3. Establish project deadlines and milestones.
+
+**Key Discussion Points:**
+
+* **Website Requirements:** The website needs to be user-friendly, mobile-responsive, SEO-optimized, and include a compelling landing page, dedicated service section, blog, and seamless social media integration.  A lead capture form integrating with HubSpot CRM is crucial.
+* **Technology Stack:**  React.js (front-end), Node.js with Express (back-end), MongoDB (database), and AWS hosting were chosen for their scalability, flexibility, and security.  Mobile-first design is prioritized. Google Lighthouse recommendations will be implemented for optimization.
+* **Project Timeline and Deadlines:**  Content delivery (Himanshu - April 5, 2025), Homepage layout and lead capture form (Vibhuti - April 8, 2025), Project roadmap and testing strategy (Project Lead - April 6, 2025), Internal review (April 10, 2025).
+
+**Tasks Assigned to Attendees:**
+
+* **Himanshu:** Provide all website content (company details, service descriptions, blog drafts) by April 5, 2025.
+* **Vibhuti:** Develop the homepage layout and lead capture form (integrated with HubSpot CRM), with a first draft ready by April 8, 2025.
+* **Project Lead:** Define the complete project roadmap, including milestones and testing strategy by April 6, 2025, and monitor project progress.
+
+
+**Action Items:**
+
+* Himanshu to deliver website content by April 5, 2025.
+* Vibhuti to complete the homepage layout and lead capture form draft by April 8, 2025.
+* Project Lead to finalize the project roadmap and testing strategy by April 6, 2025.
+* Internal review of initial drafts on April 10, 2025.
+* Next meeting scheduled for April 7, 2025, to review progress.
